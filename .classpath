@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Lab_1/src"/>
+	<classpathentry kind="src" path="Lab1A/src"/>
+	<classpathentry kind="src" path="Lab2/src"/>
+	<classpathentry kind="src" path="Lab3/src"/>
+	<classpathentry kind="src" path="Lab4/src"/>
+	<classpathentry kind="src" path="Lab5/src"/>
+	<classpathentry kind="src" path="Lab6/src"/>
+	<classpathentry kind="src" path="Learning/src"/>
+	<classpathentry kind="src" path="Lecture activeities 1/src"/>
+	<classpathentry kind="src" path="Lecture_Activity_2/src"/>
+	<classpathentry kind="src" path="LectureAct3/src"/>
+	<classpathentry kind="src" path="LectureAct4/src"/>
+	<classpathentry kind="src" path="New/src"/>
+	<classpathentry kind="src" path="NewWithGUI/src"/>
+	<classpathentry kind="src" path="StudentDatabase/src"/>
+	<classpathentry kind="src" path="TestGround/src"/>
+	<classpathentry kind="src" path="Thing/src"/>
+	<classpathentry kind="output" path="Lab1A/bin"/>
+</classpath>
